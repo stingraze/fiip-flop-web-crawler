@@ -1,4 +1,4 @@
-# fiip-flop-web-crawler
+# flip-flop-web-crawler
 This is a web crawler that uses flip-flop based timing to alternate with depth and breadth crawl.
 
 Written in Python 3.
